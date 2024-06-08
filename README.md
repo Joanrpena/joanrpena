@@ -16,6 +16,6 @@
 [<img align="left" alt="Joan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/Josh](https://twitter.com/Joan_Pena
+[twitter]:https://twitter.com/Joan_Pena
 
-[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/joan-pena-231427221/)https://www.linkedin.com/in/joan-pena-231427221/
+[linkedin]:https://www.linkedin.com/in/joan-pena-231427221/
