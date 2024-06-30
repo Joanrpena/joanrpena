@@ -7,8 +7,8 @@
  <b>osTicket(Help Desk Ticketing System)</b>
  
   - [osTicket: Prerequisites and Installation](https://github.com/joanrpena/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration (In Progress)](https://github.com/joanrpena/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples (In progress)](https://github.com/joanrpena/ticket-lifecycle)
+<!--  - [osTicket: Post-Installation Configuration (In Progress)](https://github.com/joanrpena/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples (In progress)](https://github.com/joanrpena/ticket-lifecycle) -->
 </details>
 
 <details open>
@@ -16,8 +16,8 @@
    <b>Microsoft Azure (Active Directory, Network Security Groups & Protocols)</b>
 
   - [Installing Active Directory in Azure](https://github.com/joanrpena/install-ad)
-  - [Configuring Active Directory within Azure VMs(In Progress)](https://github.com/joanrpena/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols(In Progress)](https://github.com/joanrpena/azure-network-protocols)
+ <!-- - [Configuring Active Directory within Azure VMs(In Progress)](https://github.com/joanrpena/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols(In Progress)](https://github.com/joanrpena/azure-network-protocols) -->
 
 </details>
 <h2>🤳Connect with me:</h2>
