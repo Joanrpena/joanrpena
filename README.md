@@ -17,7 +17,7 @@
 
   - [Installing Active Directory in Azure](https://github.com/joanrpena/install-ad)
   - [Configuring Active Directory within Azure VMs](https://github.com/joanrpena/configure-ad)
- <!-- - [Network Security Groups (NSGs) and Inspecting Network Protocols(In Progress)](https://github.com/joanrpena/azure-network-protocols) -->
+ - [Network Security Groups (NSGs) and Inspecting Network Protocols(In Progress)](https://github.com/joanrpena/azure-network-protocols)
 
 </details>
 <h2>🤳Connect with me:</h2>
